@@ -1,5 +1,7 @@
 # Make Folder By Date
 
+※ README.pdf では画像付きで説明しています。
+
 ---
 
 ---
